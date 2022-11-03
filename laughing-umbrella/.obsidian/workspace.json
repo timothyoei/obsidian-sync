@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1b389e7638e12efd",
+        "id": "af57374610b6c42e",
         "type": "tabs",
         "children": [
           {
-            "id": "9da5ee0d4714fb32",
+            "id": "be5e1fa8302e9682",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9da5ee0d4714fb32",
+  "active": "be5e1fa8302e9682",
   "lastOpenFiles": [
-    "Work/Skills/Data Science & Analytics/Data Science & Analytics.md",
-    "Work/Knowledge/Mathematics/Discrete/Number Theory/Number Theory.md",
-    "Work/Business/Business.md",
-    "Work/Skills/Data Science & Analytics/Data Analytics/Data Analytics.md",
-    "Work/Business/Product Management/Product Management.md",
-    "Work/Work.md",
-    "Work/Business/Entrepreneurship/Entrepreneurship.md",
-    "Work/Skills/Data Science & Analytics/Data Science/Data Science.md",
-    "Work/Skills/Skills.md",
-    "Work/Skills/Programming/Programming.md"
+    "Work/Skills/Software Engineering/Frontend/Frontend.md",
+    "Work/Skills/Software Engineering/Frontend/Accessibility/Accessibility.md",
+    "Work/Skills/Software Engineering/Frontend/Search Engine Optimization/Search Engine Optimization.md",
+    "Work/Skills/Software Engineering/Frontend/Frontend Performance/Frontend Performance.md",
+    "Work/Skills/Software Engineering/Frontend/Responsive Web Design/Responsive Web Design.md",
+    "Work/Skills/Software Engineering/Frontend/Progressive Web Apps/Progressive Web Apps.md",
+    "Work/Skills/Software Engineering/Frontend/Cross-Platform Mobile Apps/Native Desktop Apps.md",
+    "Work/Skills/Software Engineering/Frontend/Cross-Platform Desktop Apps/Cross-Platform Desktop Apps.md",
+    "Work/Skills/Software Engineering/Frontend/Cross-Platform Mobile Apps/Cross-Platform Mobile Apps.md",
+    "Work/Skills/Software Engineering/Frontend/Frontend Security/Frontend Security.md"
   ]
 }
