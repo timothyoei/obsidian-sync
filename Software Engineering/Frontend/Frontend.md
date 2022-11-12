@@ -1,0 +1,2 @@
+**Links:** [[Accessibility]], [[Cross-Platform Desktop Apps]], [[Cross-Platform Mobile Apps]], [[Frontend Performance]], [[Frontend Security]], [[Progressive Web Apps]], [[Responsive Web Design]], [[Search Engine Optimization]], [[Server-side Rendering]], [[Static Site Generators]]
+**Tags:** #MoC 
