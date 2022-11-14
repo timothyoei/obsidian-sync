@@ -1,2 +1,2 @@
-**Links:** [[Applied Mathematics]], [[Change]], [[Discrete]], [[Logic]], [[Structure]]
+**Links:** 
 **Tags:** #MoC 

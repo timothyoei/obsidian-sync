@@ -1,2 +1,2 @@
-**Links:** [[Database Theory]]
+**Links:** [[Artificial Intelligence]]
 **Tags:** #MoC 

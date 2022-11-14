@@ -1,2 +1,2 @@
-**Links:** [[Computer Science]], [[Data Science & Analytics]], [[Entrepreneurship]], [[Interviewing]], [[Mathematics]], [[Product Management]], [[Programming]], [[Software Engineering]]
+**Links:** [[Business]], [[Computer Science]], [[Data]], [[Interviewing]], [[Mathematics]], [[Programming]], [[Software Engineering]]
 **Tags:** #MoC 
