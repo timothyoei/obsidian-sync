@@ -1,2 +1,2 @@
-**Links:** [[Artificial Intelligence]]
+**Links:** [[Data Structures & Algorithms]]
 **Tags:** #MoC 
