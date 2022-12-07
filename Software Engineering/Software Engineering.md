@@ -1,2 +1,2 @@
-**Links:** [[Backend]], [[Frontend]], [[Infrastructure]], [[Software Design & Architecture]], 
+**Links:** [[Fullstack]], [[Operations & Infrastructure]], [[Programming]], [[Software Design & Architecture]]
 **Tags:** #MoC 

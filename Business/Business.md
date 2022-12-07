@@ -1,2 +1,2 @@
-**Links:** [[Entrepreneurship]], [[Product Management]]
 **Tags:** #MoC 
+**Links:** [[Product Management]], [[Project Management]]

@@ -1,2 +1,5 @@
-**Links:** [[Business]], [[Computer Science]], [[Interviewing]], [[Mathematics]], [[Programming]], [[Software Engineering]]
+**Links:** [[Ideas]], [[Business]], [[Computer Science]], [[Interviewing]], [[Mathematics]], [[Software Engineering]]
 **Tags:** #MoC 
+
+# Resources
+* [Markdown Guide](https://www.markdownguide.org/tools/obsidian/)

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cda0b4d8a72bb9a",
+        "id": "743a7c54c5b767cd",
         "type": "tabs",
         "children": [
           {
-            "id": "93be5638594bb73a",
+            "id": "199b53ae0f06f41c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93be5638594bb73a",
+  "active": "199b53ae0f06f41c",
   "lastOpenFiles": [
-    "Programming/Asynchronous Programming.md",
-    "Software Engineering/Backend/Backend.md",
-    "Software Engineering/Backend/Untitled.md",
-    "Programming/Competitive Programming.md",
-    "Programming/Programming.md",
-    "Software Engineering/Software Engineering.md",
-    "Software Engineering/Frontend/Frontend.md",
-    "Computer Science/Data Structures & Algorithms/Data Structures & Algorithms.md",
-    "Computer Science/Computer Science.md",
-    "MAIN.md"
+    "Software Engineering/Fullstack/Backend/API/API.md",
+    "Software Engineering/Fullstack/Backend/API/Types of API Architecture/REST API.md",
+    "Software Engineering/Fullstack/Security/Security.md",
+    "Software Engineering/Fullstack/Backend/API/Types of API Architecture/Untitled.md",
+    "Software Engineering/Fullstack/Backend/Backend.md",
+    "Computer Science/Computer Networks/Internet/Internet.md",
+    "Computer Science/Computer Networks/Computer Networks.md",
+    "Software Engineering/Programming/Competitive Programming.md",
+    "Software Engineering/Operations & Infrastructure/Containers/Container Runtimes/Docker.md",
+    "Software Engineering/Operations & Infrastructure/Containers/Containers.md"
   ]
 }
