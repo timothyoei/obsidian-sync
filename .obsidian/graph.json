@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 2883328
       }
+    },
+    {
+      "query": "file:Template",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "tag:#Branch",
+      "color": {
+        "a": 1,
+        "rgb": 3713570
+      }
     }
   ],
   "collapse-display": true,
