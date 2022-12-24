@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e38d295a4d783ecb",
+        "id": "aa1d34b8cce493a9",
         "type": "tabs",
         "children": [
           {
-            "id": "3471919f8034d308",
+            "id": "bac690e2f88eb599",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -76,22 +76,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5612b25c0d82e9a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "d370789fd5bb0ceb",
             "type": "leaf",
             "state": {
@@ -128,17 +112,26 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3471919f8034d308",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bac690e2f88eb599",
   "lastOpenFiles": [
-    "MAIN.md",
-    "Extended Reality/Extended Reality.md",
-    "Extended Reality/Mixed Reality/Mixed Reality.md",
-    "Extended Reality/Virtual Reality/Virtual Reality.md",
-    "Extended Reality/Augmented Reality/Augmented Reality.md",
-    "Software Engineering/Software Engineering.md",
-    "Templates/Template.md",
-    "Templates/Templates.md",
-    "Software Engineering/Fullstack/Backend/API/API.md",
-    "Software Engineering/Fullstack/Backend/API/Types of API Architecture/REST API.md"
+    "Work/Work.md",
+    "Work/Interviewing/Interviewing.md",
+    "Work/Technical/Technical.md",
+    "TRUNK.md",
+    "Work/Technical/Software Engineering/Backend/Database.md",
+    "Work/Technical/Software Engineering/Backend/Backend.md",
+    "Work/Technical/Software Engineering/Backend/API.md",
+    "Work/Technical/Software Engineering/Software Engineering.md",
+    "Work/Technical/Software Engineering/Frontend/Frontend.md",
+    "Work/Technical/Software Engineering/Software Design & Architecture/Software Design & Architecture.md"
   ]
 }

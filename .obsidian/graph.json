@@ -8,38 +8,52 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:MAIN",
+      "query": "file:TRUNK",
       "color": {
         "a": 1,
-        "rgb": 6374656
+        "rgb": 4270593
       }
     },
     {
-      "query": "tag:#MoC",
+      "query": "path:Utils",
       "color": {
         "a": 1,
-        "rgb": 1134349
+        "rgb": 1114367
+      }
+    },
+    {
+      "query": "tag:#GreaterBranch",
+      "color": {
+        "a": 1,
+        "rgb": 9074432
+      }
+    },
+    {
+      "query": "tag:#LesserBranch",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
+    },
+    {
+      "query": "tag:#GreaterMoC",
+      "color": {
+        "a": 1,
+        "rgb": 3032108
+      }
+    },
+    {
+      "query": "tag:#LesserMoC",
+      "color": {
+        "a": 1,
+        "rgb": 1991209
       }
     },
     {
       "query": "tag:#Leaf",
       "color": {
         "a": 1,
-        "rgb": 2883328
-      }
-    },
-    {
-      "query": "file:Template",
-      "color": {
-        "a": 1,
-        "rgb": 16759552
-      }
-    },
-    {
-      "query": "tag:#Branch",
-      "color": {
-        "a": 1,
-        "rgb": 3713570
+        "rgb": 65280
       }
     }
   ],
@@ -53,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8932613745404306,
+  "scale": 1.3918707253469467,
   "close": true
 }

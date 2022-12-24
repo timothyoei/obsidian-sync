@@ -1,1 +1,0 @@
-**Links:** [[Template]], [[Software Engineering]], [[Extended Reality]]
