@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1d34b8cce493a9",
+        "id": "91bb349bde89a7c1",
         "type": "tabs",
         "children": [
           {
-            "id": "bac690e2f88eb599",
+            "id": "15edc17f5c9609c6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -39,6 +39,14 @@
             }
           },
           {
+            "id": "f9d945b0e1a08fbf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "8a548acce7b6c513",
             "type": "leaf",
             "state": {
@@ -52,20 +60,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "f9d945b0e1a08fbf",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5
   },
   "right": {
     "id": "5b51a15743adb28d",
@@ -121,17 +121,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bac690e2f88eb599",
+  "active": "15edc17f5c9609c6",
   "lastOpenFiles": [
-    "Work/Work.md",
-    "Work/Interviewing/Interviewing.md",
-    "Work/Technical/Technical.md",
-    "TRUNK.md",
-    "Work/Technical/Software Engineering/Backend/Database.md",
-    "Work/Technical/Software Engineering/Backend/Backend.md",
-    "Work/Technical/Software Engineering/Backend/API.md",
-    "Work/Technical/Software Engineering/Software Engineering.md",
-    "Work/Technical/Software Engineering/Frontend/Frontend.md",
-    "Work/Technical/Software Engineering/Software Design & Architecture/Software Design & Architecture.md"
+    "Work/Technical/Software Engineering/Backend/Database/Database.md",
+    "Work/Technical/Software Engineering/Backend/Database/InfluxDB/InfluxDB.md",
+    "Work/Technical/Software Engineering/Coding/Coding.md",
+    "Work/Technical/Software Engineering/Coding/Coding Best Practices/Coding Best Practices.md",
+    "Work/Technical/Software Engineering/Coding/Structured Programming/Structured Programming.md",
+    "Work/Technical/Software Engineering/Software Architecture/Software Architecture.md",
+    "Work/Technical/Software Engineering/Software Architecture/Architectural Principles/Architectural Principles.md",
+    "Work/Technical/Software Engineering/Software Architecture/Architectural Styles/Architectural Styles.md",
+    "Work/Technical/Software Engineering/Software Architecture/Architectural Patterns/Architectural Patterns.md",
+    "Work/Technical/Software Engineering/Software Architecture/Enterprise Patterns/Enterprise Patterns.md"
   ]
 }

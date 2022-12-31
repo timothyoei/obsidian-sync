@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:TRUNK",
+      "query": "tag:#Tree",
       "color": {
         "a": 1,
-        "rgb": 4270593
+        "rgb": 0
       }
     },
     {
-      "query": "path:Utils",
+      "query": "tag:#GreaterTrunk",
       "color": {
         "a": 1,
-        "rgb": 1114367
+        "rgb": 3287070
+      }
+    },
+    {
+      "query": "tag:#LesserTrunk",
+      "color": {
+        "a": 1,
+        "rgb": 5914385
       }
     },
     {
@@ -36,24 +43,24 @@
       }
     },
     {
-      "query": "tag:#GreaterMoC",
-      "color": {
-        "a": 1,
-        "rgb": 3032108
-      }
-    },
-    {
-      "query": "tag:#LesserMoC",
-      "color": {
-        "a": 1,
-        "rgb": 1991209
-      }
-    },
-    {
       "query": "tag:#Leaf",
       "color": {
         "a": 1,
         "rgb": 65280
+      }
+    },
+    {
+      "query": "path:Utils",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "file:Main",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -62,11 +69,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 1,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.3918707253469467,
-  "close": true
+  "scale": 0.8145181879582821,
+  "close": false
 }

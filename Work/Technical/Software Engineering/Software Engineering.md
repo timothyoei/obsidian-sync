@@ -1,2 +1,2 @@
-**Tags:** #GreaterMoC 
-**Links:** [[Backend]], [[Frontend]], [[Software Design & Architecture]], [[System Design & Architecture]]
+**Tags:** #LesserTrunk
+**Links:** [[Backend]], [[Frontend]], [[UI & UX]], [[Software Architecture]], [[System Design]], [[Coding]], [[Data]]
